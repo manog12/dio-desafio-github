@@ -1,4 +1,6 @@
 # dio-desafio-github
-Primeiro repositóri
-##links úteis
-[sintaxe] (https://www.markdownguide.org/)
+Primeiro repositório
+
+
+## links úteis
+[sintaxe do markdown] (https://www.markdownguide.org/)
